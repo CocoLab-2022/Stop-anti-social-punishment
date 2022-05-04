@@ -1,5 +1,19 @@
 # Game-Theory-Organizational-Antisocial-Punishment
 
+## PD with Punishment
+
+After the PD has taken place, a player can choose to punish her opponent, which consists in paying a cost $\epsilon_1$ to make the opponent incur a cost δ_1.
+
+Ø Assume that ∈1<δ1.
+
+Ø**CP** cooperates in the PD, and punishes a co-player who defected in the game.
+
+ØAP defects in the PD, and punishes a co-player who cooperated in the game.
+
+Ø**pure cooperator (C)** and **pure defector (D)** (i.e. they do not use the punishment option).
+
+Ø4 × 4 payoff matrix (for row player):
+
 ## PD with Commitment
 
 **Commitment strategy (denoted by COM)** 
