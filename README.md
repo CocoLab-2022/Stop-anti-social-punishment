@@ -2,17 +2,17 @@
 
 ## PD with Punishment
 
-After the PD has taken place, a player can choose to punish her opponent, which consists in paying a cost $\epsilon_1$ to make the opponent incur a cost δ_1.
+- After the PD has taken place, a player can choose to punish her opponent, which consists in paying a cost $\epsilon_1$ to make the opponent incur a cost $\delta_1$.
 
-Ø Assume that ∈1<δ1.
+- Assume that $\epsilon_1<\delta_1$.
 
-Ø**CP** cooperates in the PD, and punishes a co-player who defected in the game.
+- **CP** cooperates in the PD, and punishes a co-player who defected in the game.
 
-ØAP defects in the PD, and punishes a co-player who cooperated in the game.
+- AP defects in the PD, and punishes a co-player who cooperated in the game.
 
-Ø**pure cooperator (C)** and **pure defector (D)** (i.e. they do not use the punishment option).
+- **pure cooperator (C)** and **pure defector (D)** (i.e. they do not use the punishment option).
 
-Ø4 × 4 payoff matrix (for row player):
+![image-20220504195350880](img/image-20220504195350880.png)
 
 ## PD with Commitment
 
@@ -48,4 +48,10 @@ After the PD has taken place, a player can choose to punish her opponent, which 
 
 
 ![image-20220504172036530](img/image-20220504172036530.png)
+
+## PD with Punishment and Commitment
+
+![image-20220504195516040](img/image-20220504195516040.png)
+
+## Our work
 
