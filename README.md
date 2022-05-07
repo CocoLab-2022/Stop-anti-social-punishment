@@ -1,4 +1,4 @@
-# Game-Theory-Organizational-Antisocial-Punishment
+# Game-Theory-Stop-Antisocial-Punishment
 
 ## PD with Punishment
 
@@ -55,3 +55,8 @@
 
 ## Our work
 
+![8d713e5921d6e5fe1ef10eeaf045c88](img/8d713e5921d6e5fe1ef10eeaf045c88.jpg)
+
+
+
+![7028b44d9d54a21f97e673130afb087](img/7028b44d9d54a21f97e673130afb087.jpg)
